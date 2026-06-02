@@ -1,0 +1,16 @@
+# Foundry build artifacts
+cache/
+out/
+
+# Foundry lockfile
+foundry.lock
+
+# Broadcasts / deployments
+broadcast/
+
+# Environment
+.env
+
+# Local dev helpers
+foundry_high_freq.toml
+*.py
