@@ -36,11 +36,15 @@ forge build
   - `WERC7575Vault.sol` - Non-upgradeable settlement vault (settlement layer)
   - `WERC7575ShareToken.sol` - Settlement layer share token
   - Supporting contracts and utilities
-- `test/` - Test files
 
 ## Documentation
 
 Code4rena audit: 'Code4rena x SukukFi audit report 2025-11.pdf'
+
+Fix report: 'FIX_REPORT_since_67aa1d7_2026-05-27_EXHAUSTIVE.pdf' — lists all fixes
+applied since the audit. The commit hashes referenced in this report are
+from SukukFi's internal development repository and do not correspond to
+commits in this public repository.
 
 ## Key Features
 
